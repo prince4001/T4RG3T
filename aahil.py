@@ -1,11 +1,11 @@
-#!/usr/bin/python
+#!/usr/kashif/python
 # -*- coding: utf-8 -*-
         
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by Rana Aahil     #
-        #    Facebook Contact:       Aahil          #
+        #    Facebook BruteForce, by Shazad luckey    #
+        #    Facebook Contact:       Shazad          #
         #                                           #
         #############################################
 
